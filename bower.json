@@ -1,0 +1,18 @@
+{
+  "name": "ember-money-field",
+  "version": "0.1.0",
+  "homepage": "https://github.com/billysbilling/ember-money-field",
+  "main": "src/js/money-field.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "ember": "billysbilling/bower-ember#master",
+    "ember-number-field": "billysbilling/ember-number-field#master"
+  }
+}
